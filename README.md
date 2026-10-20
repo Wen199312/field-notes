@@ -18,6 +18,7 @@ are wrong in ways that are hard to notice.
 |---|---|---|
 | 2026-10-19 | [RankMath sitemap exclusion: a filter that passes in isolation but does nothing in production](posts/2026-10-19-rankmath-sitemap-exclusion.md) | WordPress / SEO |
 | 2026-10-20 | [`is_singular()` is true on `/page/2/` when your front page is a static page](posts/2026-10-20-is-singular-static-front-page.md) | WordPress / SEO |
+| 2026-10-20 | [LuckyWP TOC ignores the `id` you put on your heading](posts/2026-10-20-luckywp-toc-heading-id.md) | WordPress / plugins |
 
 ## Conventions
 
